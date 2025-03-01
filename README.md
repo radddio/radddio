@@ -1,2 +1,2 @@
 # radddio
-host of radddio.github.io
+host of https://radddio.github.io
