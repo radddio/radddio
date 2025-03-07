@@ -44,7 +44,8 @@ Radddio is not intended for children under the age of 13. As we do not collect a
 
 7. Your Privacy Rights
 
-Since no personal data is collected, there are no data rights applicable under this Privacy Policy. If you have any concerns, feel free to reach out to us at [Your Contact Email].
+Since no personal data is collected, there are no data rights applicable under this Privacy Policy. If you have any concerns, feel free to reach out to us at [support@ios2web.com](mailto:support@ios2web.com)
+
 
 8. Changes to This Privacy Policy
 
@@ -54,4 +55,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or concerns about this Privacy Policy, please reach out to us at:
 
-Email: support@ios2web.com
+Email: [support@ios2web.com](mailto:support@ios2web.com)
