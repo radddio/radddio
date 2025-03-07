@@ -1,3 +1,9 @@
+---
+layout: default
+title: Terms of Service
+description: By accessing or using our website and services, you agree to comply with the following Terms of Services. Please read them carefully.
+---
+
 ## Terms of Service
 
 Last Updated: 01.03.2025
@@ -58,4 +64,4 @@ Continued use of the App after changes take effect constitutes acceptance of the
 
 If you have any questions about these Terms, please contact us at:
 
-Email: support@ios2web.com
+Email: [support@ios2web.com](mailto:support@ios2web.com)
