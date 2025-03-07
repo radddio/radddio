@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy 
+description: Learn how Radddio collects, uses, and protects your data. Our Privacy Policy explains the measures we take to ensure your information remains secure and your rights regarding personal data.
+---
+
 ## Privacy Policy 
 
 Last Updated: 01.03.2025
